@@ -1,0 +1,38 @@
+/* Custom CSS for rykadrix.com */
+
+/* Colors:
+pink		#ee4599
+navy blue	#131740
+purple		#a74a9c
+dark blue	#2b7ec2
+light blue	#00bdf2
+orange		#f5865e
+yellow		#ffbf58
+
+*/
+p {font-size: 16px;}
+.logo img {width:150px;}
+
+.right-banner-content, .banner .left-banner-content {height: unset; min-height: 600px;}
+.right-banner-content {padding: 50px 45px;}
+.banner .left-banner-content {padding-top: 50px;padding-bottom: 70px;}
+
+
+.right-banner-content {background-color:#131740;}
+.right-banner-content span, .right-banner-content p {font-size:16px;}
+.best-offer-left-content {background: unset; background-color:#a74a9c ;}
+.best-offer-left-content img {width: 70px;}
+.best-offer-left-content .icon {border:3px solid #fff;}
+.best-offer-left-content h2 {color:#fff;}
+.best-offer-right-content em {color: #ee4599;}
+.best-offer-right-content ul li {font-size: 16px;}
+
+
+.pink-button a {background-color: #ee4599;}
+
+.seat-belt-left-content {background-color: #2b7ec2;}
+.blue-button a {background-color: #00bdf2;}
+.seat-belt-right-content em {color: #00bdf2;}
+
+footer {height:unset; background-color: #ffbf58;}
+footer p {line-height:unset;padding: 1em 0;}
